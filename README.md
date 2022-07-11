@@ -1,4 +1,4 @@
-![Alt Text](https://tenor.com/view/hello-there-general-kenobi-gif-18841535)
+![Alt Text](https://i.imgur.com/YBqg9JG.gifv)
 
 ### Hello there 👋
 
