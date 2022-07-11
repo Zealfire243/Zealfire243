@@ -1,6 +1,5 @@
 <p align="center">
-    // Your content
-![Alt Text](Hellothere.gif)
+    ![Alt Text](Hellothere.gif)
 </p>
 ### Hello there 👋
 
