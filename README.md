@@ -1,5 +1,5 @@
 <p align="center">
-    ![Alt Text](Hellothere.gif)
+    <img width="200" src="Hellothere.gif">
 </p>
 ### Hello there 👋
 
