@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="1200" src="Hellothere.gif">
+    <img width="800" src="Hellothere.gif">
 </p>
 ### Hello there 👋
 
