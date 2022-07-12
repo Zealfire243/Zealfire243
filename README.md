@@ -11,7 +11,7 @@
 **Zealfire243/Zealfire243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-My name is Ethan Helder and I am a data scientist. I have recently graduated from Flatiron School and had been working in the food service industry for 7 years. I have been a bartender
+My name is Ethan Helder and I am a data scientist. I recently graduated from Flatiron School and had been working in the food service industry for 7 years. I have been a kitchen assistant, server, bartender and a shift manager. I learned how to 
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with getting a Data Science related job. If you have any suggestions for my profiles or willing to give any tips regarding my resume/CV, I would really appreciate it. And if you believe that I would be a good fit for a job, reach out. 
@@ -20,3 +20,13 @@ My name is Ethan Helder and I am a data scientist. I have recently graduated fro
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Connect with me:
+
+<a href="https://github.com/Zealfire243" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/ethan-helder" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> 
+<a href="mailto:helderethan@gmail.com" rel="nofollow"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
