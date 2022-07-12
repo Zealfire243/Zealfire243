@@ -11,7 +11,7 @@
 **Zealfire243/Zealfire243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+My name is Ethan Helder and I am a data scientist. I have recently graduated from Flatiron School and had been working in the food service industry for 7 years. I have been a bartender
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with getting a Data Science related job. If you have any suggestions for my profiles or willing to give any tips regarding my resume/CV, I would really appreciate it. And if you believe that I would be a good fit for a job, reach out. 
